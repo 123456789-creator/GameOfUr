@@ -1,4 +1,5 @@
 extends Node
+#Alex Xu
 
 export var piecesPerPlayer := 1
 const STATES = ["P1ROLE, P1PLAY, P1ANIMATE, P2ROLE, P2PLAY, P2ANIMATE"]
